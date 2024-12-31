@@ -20,7 +20,7 @@
    </style>
 </head>
 <body>
-	<h1>Selamat Ulang Tahun Kamu</h2>
+	<h1>SELAMAT TAHUN BARU PUTRI NABILA AZAHRA</h2>
    <script>var rnd = Math.random, flr = Math.floor;
    let canvas = document.createElement('canvas');
    
